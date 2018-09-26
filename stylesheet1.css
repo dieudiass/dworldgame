@@ -1,0 +1,59 @@
+/* powered by Dieudo BK */
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+} 
+body{
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	background: #ccc;
+}
+.logo{
+   /* width: 100px; */
+    /* margin-top: -45px; */
+   /* size: -45px; */
+   height: 110px;
+    width: 100%;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+.logo1{
+   /* width: 100px; */
+    /* margin-top: -45px; */
+   /* size: -45px; */
+   height: 500px;
+    width: 100%;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+.logo2{
+   /* width: 100px; */
+    /* margin-top: -45px; */
+     
+   height: 500px;
+    width: 100%;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    list-style-type: none;
+    float: left;
+    display: block;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    line-height: 55px;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 17px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}

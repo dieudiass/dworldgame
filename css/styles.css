@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#header{
+    background-image: url("../img/D.jpg");
+    height: 200px;
+    width: 100%;
+}
+/* Colors*/
+.dark{
+    background-color: #154360;
+}
+
+.cart{
+    padding: 5px 10px;
+}
+/* Text */
+small.gap{
+    margin-top: 10px;
+}

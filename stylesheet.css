@@ -1,0 +1,60 @@
+/* powered by Dieudo BK */
+/* body{
+	margin: 0;
+	padding: 0;
+} */
+
+
+/* #holder {
+	/* width: 980px;
+	height: auto; */
+	/* margin-left: auto;
+	margin-right: auto;
+	margin-top: 21px;
+	margin-bottom: 21px; */
+/* } */
+#header {
+	background-color: rgb(62,62,62);
+	width : auto;
+	height: auto;
+	margin-top: 8px;
+}
+#navbar {
+	 height:60px;    
+   background-color: rgb(13, 13, 13);
+	margin-top: 8px;
+}
+#content {
+	background-color: rgb(62,62,62);
+	width : auto;
+	height: 5px;
+	margin-top: 8px;
+}
+#content1 {
+	background-color: rgb(62,62,62);
+	width : auto;
+	height: auto;
+	margin-top: 8px;
+}
+#footer {
+	background-color: rgb(62,62,62);
+	width : auto;
+	height: auto;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+#pageheading{
+	/* margin: 50px auto; */ 
+    position: relative; 
+    width: auto; 
+    height: auto; 
+    /* padding: 10px; */ 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+#pageheading > div { 
+    position: absolute; 
+    /* top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; */ 
+}
